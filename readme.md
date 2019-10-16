@@ -4,7 +4,7 @@ Today is 10-16-2019.
 
 ## This is my h2.
 
-#### Strong emphasis, aka bold with **asterisks** or __underscores__
+Strong emphasis, aka bold with **asterisks** or __underscores__
 
-#### Italics *italics*
+ Italics *italics*
 
